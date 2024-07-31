@@ -1,4 +1,5 @@
 #INSTALL THESE
+#MAKE SURE TO REMOVE THE #, I USED GOOGLE COLAB SO INSTALL THEM HOWEVER YOU WOULD ON YOUR SYSTEM!!!
 #pip install requests
 #pip install pandas
 #pip install finvizfinance
