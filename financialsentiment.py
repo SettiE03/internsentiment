@@ -7,16 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1WIpa81_2CG59sRU6_Dvp9bYG4Rvrvqp8
 """
 
-pip install finvizfinance
-
-pip install finvader
-
-pip install yfinance
-
-pip install catboost
-
-#url = "https://elite.finviz.com/export.ashx?v=150&p=i1&f=cap_0.01to,geo_usa|china|france|europe|australia|belgium|canada|chinahongkong|germany|hongkong|iceland|japan|newzealand|ireland|netherlands|norway|singapore|southkorea|sweden|taiwan|unitedarabemirates|unitedkingdom|switzerland|spain,sh_curvol_o1000,sh_price_u50,sh_relvol_o5,ta_change_u&ft=4&o=-change&ar=10&auth=40f88c6a-1d17-4359-8afc-16412534cd7a"
-
 # Import necessary libraries
 import requests
 import pandas as pd
